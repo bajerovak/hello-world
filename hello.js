@@ -1,2 +1,2 @@
-console.log("React Girls")
+console.log("Ahoj světe")
 
