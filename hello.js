@@ -1,2 +1,1 @@
-console.log("Ahoj světe")
-
+console.log("Ahoj holky!!!")
